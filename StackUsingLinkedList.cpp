@@ -122,3 +122,7 @@ int main()
         case 4:
             cout << "Exiting program." <<endl;
             break;
+        deafult:
+            cout << "Invalid choice. Try again." <<endl;
+            break;
+        }
