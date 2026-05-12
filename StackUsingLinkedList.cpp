@@ -68,3 +68,5 @@ public:
         }//return the value of the top node
     }
 
+    //isEmpty opertaion: check of the stack is empty
+    bool isEmpty()
